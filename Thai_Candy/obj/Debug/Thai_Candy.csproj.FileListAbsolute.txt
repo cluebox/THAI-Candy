@@ -1,0 +1,8 @@
+E:\Clue-Box Work\V.Studio\Thai_Candy\Thai_Candy\bin\Debug\Thai_Candy.exe.config
+E:\Clue-Box Work\V.Studio\Thai_Candy\Thai_Candy\bin\Debug\Thai_Candy.exe
+E:\Clue-Box Work\V.Studio\Thai_Candy\Thai_Candy\bin\Debug\Thai_Candy.pdb
+E:\Clue-Box Work\V.Studio\Thai_Candy\Thai_Candy\bin\Debug\SpssLib.dll
+E:\Clue-Box Work\V.Studio\Thai_Candy\Thai_Candy\bin\Debug\SpssLib.xml
+E:\Clue-Box Work\V.Studio\Thai_Candy\Thai_Candy\obj\Debug\Thai_Candy.exe
+E:\Clue-Box Work\V.Studio\Thai_Candy\Thai_Candy\obj\Debug\Thai_Candy.pdb
+E:\Clue-Box Work\V.Studio\Thai_Candy\Thai_Candy\obj\Debug\Thai_Candy.csprojResolveAssemblyReference.cache
